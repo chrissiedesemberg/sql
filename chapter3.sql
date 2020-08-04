@@ -15,3 +15,21 @@ INSERT INTO clown_info VALUES ('Zippo' ,'Millstone Mall', 'F, orange suit, baggy
 INSERT INTO clown_info VALUES ('Babe', 'Earls Autos' ,'F, all pink and sparkly', 'balancing, little car');
 INSERT INTO clown_info VALUES ('Bonzo' ,'','M, in drag, polka dotted dress', 'singing, dancing');
 INSERT INTO clown_info VALUES ('Sniffles' ,'Tracy\'s', 'M, green and purple suit, pointy nose',''); 
+
+INSERT INTO clown_info
+VALUES
+('Zippo', 'Millstone Mall', 'F, orange suit, baggy pants',
+'dancing, singing');
+
+INSERT INTO clown_info
+VALUES
+('Snuggles', 'Ball-Mart', 'F, yellow shirt, baggy blue pants',
+'horn, umbrella');
+
+INSERT INTO clown_info
+VALUES
+('Clarabelle', 'Belmont Senior Center', 'F, pink hair,
+huge flower, blue dress', 'dancing');
+
+
+
